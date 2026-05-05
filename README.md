@@ -1,5 +1,4 @@
 # Bank-Marketing-SQL-Analysis
-# Bank Marketing SQL Analysis
 
 ## Business Problem
 A Portuguese bank ran a telemarketing campaign to sell term deposit 
